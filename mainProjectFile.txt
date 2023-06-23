@@ -20,4 +20,3 @@ Suspendisse ut aliquet libero, sed blandit leo. Sed sed ligula elementum felis e
 
 Generated 5 paragraphs, 520 words, 3398 bytes of Lorem Ipsum
 
-- call featureB.txt
