@@ -18,4 +18,6 @@ Generated 5 paragraphs, 520 words, 3398 bytes of Lorem Ipsum
 Calling features:
 Call FeatureB.txt
 
+Call FeatureA 
+
 Most part was generated on https://www.lipsum.com/
