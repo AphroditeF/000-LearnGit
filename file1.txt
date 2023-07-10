@@ -1,5 +1,0 @@
-First line on file1.txt
-second line on file1.txt
-Third line on file1.txt
-Forth line on file1.txt
-Fifth line on file1.txt
